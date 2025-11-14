@@ -1,0 +1,91 @@
+Section 1: Cloud Computing
+What is Cloud Computing?
+The Different Types of Cloud Computing
+
+Section 2: Google Cloud Regions and Zones
+Why do we need Regions and Zones?
+Understanding Regions and Zones in GCP - Google Cloud Platform
+
+Section 3: Google Compute Engine for Associate Cloud Engineer
+Getting started with Google Compute Engine - GCE
+Creating your first Virtual Machine in GCP
+Understanding Machine Types and Images in Google Compute Engine - GCE
+Installing HTTP Webserver on Google Compute Engine Virtual Machine
+Understanding Internal and External IP Addresses
+Playing with a Static IP Addresses
+Understanding Static IP Address in GCP - Google Cloud Platform
+Simplifying Web Server setup with Compute Engine Startup Script
+Simplifying VM creation with Instance Templates
+Reducing Launch Time with a Custom Image
+Playing with Google Cloud Platform (Web) Console
+
+Section 4: Gcloud for Associate Cloud Engineer
+Getting Started with Gcloud
+Playing with Gcloud config set
+Managing Multiple Configurations in Gcloud
+Understanding Command Structure in Gcloud to play with Services
+Playing with Gcloud compute instances create
+Setting Default Region and Zone for Compute Engine
+
+Section 5: Getting started with Instance Groups in Google Cloud
+Getting Started with Instance Groups
+Creating Managed Instance Groups (MIG)
+Playing with Managed Instance Groups (MIG)
+
+Section 6: Load Balancing in Google Cloud Platform
+Getting Started with Cloud Load Balancing
+Creating a Load Balancer in GCP - Google Cloud Platform
+Exploring the Load Balancer in GCP - Google Cloud Platform
+
+Section 7: Getting Started with Google Kubernetes Engine
+Getting Started with Google Kubernetes Engine GKE
+Creating a GKE Cluster
+Create a Deployment and a Service
+Exploring GKE in GCP Console
+Scaling Deployments and Resizing Node Pools
+Autoscaling
+
+
+Section 8: Getting Started with Google Cloud Run
+Getting Started with Google Cloud Run
+
+Section 9: Block and File Storage in Google Cloud Platform - GCP
+Exploring Block and File Storage in GCP
+Exploring Block Storage in GCP - Local SSDs
+Exploring Block Storage in GCP - Persistent Disks
+Comparing Persistent Disks vs Local SSDs
+Exploring Persistent Disk Types
+Taking Snapshots for Persistent Disks
+Playing with Persistent Disks and Snapshots in GCP
+Playing with Machine Images
+
+Section 10: Object Storage in Google Cloud Platform - Cloud Storage
+Playing with Object Storage in GCP - Cloud Storage
+Exploring Cloud Storage in GCP
+Understanding Cloud Storage - Objects and Buckets
+Understanding Cloud Storage - Storage Classes
+Understanding Cloud Storage - Versioning
+Playing with gsutil - Cloud Storage from Command Line
+
+Section 11: Authentication and Authorization in Google Cloud with Cloud IAM
+Getting started with Cloud IAM
+Exploring Cloud IAM with an Example
+Exploring Cloud IAM - Roles
+Playing with IAM Roles - Predefined, Basic and Custom Roles
+Exploring Cloud IAM - Members, Role and Policy
+Demo - Playing with IAM
+Getting Started with Service Accounts
+Demo - Playing with Service Accounts
+
+Section 12: Private Networks in Google Cloud - Cloud VPC
+Understanding the Need for Google Cloud VPC - Virtual Private Cloud
+Understanding the Need for VPC Subnets
+Creating VPCs and Subnets in Google Cloud Platform
+Demo - Creating VPCs and Subnets in GCP
+Understanding Firewall Rules in Google Cloud Platform
+Getting Started with VPC Peering
+
+Section 13: Operations in Google Cloud Platform - GCP
+Getting Started with Google Cloud Monitoring
+Getting Started with Google Cloud Logging
+

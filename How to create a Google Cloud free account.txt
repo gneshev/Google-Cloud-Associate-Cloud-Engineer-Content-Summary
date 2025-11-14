@@ -1,0 +1,35 @@
+How to create a Google Cloud free account
+
+
+
+To create a Google Cloud free account, go to https://cloud.google.com/free, 
+
+sign in with your Google account, 
+
+select your country, 
+
+provide your payment and phone details for verification (you won't be charged unless you upgrade), 
+
+and then complete the process to receive $300 in free credits for 90 days and access to the free tier services.
+
+Step-by-step guide:
+Navigate to the Google Cloud Free page: Open your web browser and go to cloud.google.com/free.
+ 
+Sign in with your Google account: Click on the "Start free" or "Start here and say get started for free" button and then sign in with your existing Gmail ID or a new one.
+ 
+Enter account information:
+	Select your country from the drop-down menu. 
+	Agree to the terms of service by checking the relevant box and clicking continue.
+ 
+Set up your payment profile:
+	You will need to provide a valid phone number for verification. 
+	Enter your credit or debit card details. This is for verification to ensure you're not a robot and to enable future billing if you choose to upgrade beyond the free trial.
+ 
+Activate your free trial: Click on "Start my Free Trial" to confirm and activate your account.
+ 
+Explore Google Cloud: Once the setup is complete, you will be redirected to the Google Cloud Console. You will have $300 in free credits to use on various Google Cloud products for 90 days. 
+
+What's included in the free trial:
+	Free credits: You receive $300 in free credits to use on most Google Cloud products and services. 
+	Free tier services: You can also access a number of free tier products, like Compute Engine, Cloud Storage, and BigQuery, up to certain usage limits. 
+	Verification: The credit card and phone number are required for verification purposes; you will not be charged unless you manually upgrade to a paid account. 
